@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Survival1_2.aternos.me",
-    "port": 51496,
-    "version": "",
+    "ip": "Swan1_2.aternos.me",
+    "port": 53641,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
